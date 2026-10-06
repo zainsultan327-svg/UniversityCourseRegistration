@@ -13,5 +13,8 @@ public class Registration {
         System.out.println("==============================");
         student.displayStudent();
         course.displayCourse();
+        System.out.println("------------------------------");
+        System.out.println("STATUS: Registration Confirmed Successfully!");
+        System.out.println("==============================");
     }
 }
